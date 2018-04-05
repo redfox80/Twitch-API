@@ -5,7 +5,8 @@ Requirements
 * PHP v7.2.2^
 
 * Composer packages
-    * Guzzle http
+    * guzzle/guzzle
+    * redfox80/php-autoloader-simple
 
 ---
 
