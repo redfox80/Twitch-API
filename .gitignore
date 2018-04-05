@@ -1,2 +1,5 @@
 ./vendor
 ./vendor/*
+./public
+./public/*
+./.env

@@ -14,5 +14,13 @@
         "psr-4": {
             "redfox80\\twitch\\": "src/"
         }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "redfox80\\twitch\\dev\\": "public/"
+        }
+    },
+    "require-dev": {
+        "vlucas/phpdotenv": "^2.4"
     }
 }
