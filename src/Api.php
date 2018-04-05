@@ -1,10 +1,12 @@
 <?php
 
-namespace redfox80\twitch;
+namespace Redfox80\Twitch;
 
 require_once(__DIR__ . "/../vendor/autoload.php");
 
-class twitchapi {
+use Redfox80\Twitch\Endpoints;
+
+class Api extends Endpoints {
 
     public function test()
     {

@@ -15,5 +15,5 @@ More detailed documentation will come as the project develops
 Store Twitch api key in env like this
 
 ```env
-TWITCH_API_KEY='KEY BETWEEN THE QUOTES'
+API_TWITCH_ID='KEY BETWEEN THE QUOTES'
 ```

@@ -12,15 +12,18 @@
     ],
     "autoload": {
         "psr-4": {
-            "redfox80\\twitch\\": "src/"
+            "Redfox80\\Twitch\\": "src/"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "redfox80\\twitch\\dev\\": "public/"
+            "Redfox80\\Twitch\\Dev\\": "public/"
         }
     },
     "require-dev": {
         "vlucas/phpdotenv": "^2.4"
+    },
+    "require": {
+        "guzzlehttp/guzzle": "^6.3"
     }
 }
